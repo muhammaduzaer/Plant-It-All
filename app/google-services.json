@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "981395774844",
+    "project_id": "plantitall",
+    "storage_bucket": "plantitall.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:981395774844:android:037c326cc6741ff61758f9",
+        "android_client_info": {
+          "package_name": "com.muhammaduzaer.plantitall"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "981395774844-3asc1o467bqn5mdl7794tfgai2irqr9e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.muhammaduzaer.plantitall",
+            "certificate_hash": "f48a615105c353570ca7f981ceda55f2437fa153"
+          }
+        },
+        {
+          "client_id": "981395774844-gsmuiresgdae2rabopimcneanj5sv191.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5vRxUWiedMBcC8hWt0QErcRcZewPYvz4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "981395774844-gsmuiresgdae2rabopimcneanj5sv191.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
